@@ -1,0 +1,79 @@
+#banner{
+    background-image: url('../images/banner1.jpg');
+    background-position: 50%;
+    width: 100%;
+    padding: 16vh 0vh;
+    height: 60vh;
+    color: white;
+}
+#banner h1{
+    margin-bottom: 2vh;
+}
+#bannerSearch{
+    border: none;
+    width: 40%;
+    height: 5vh;
+}
+#butt{
+    background-color: black;
+    color: white;
+    border: none;
+}
+#newsletterText{
+    width: 40%;
+    border: none;
+}
+#cards{
+    padding: 5vh 0vh;
+}
+.para{
+    text-align: left;
+}
+.push{
+    margin-bottom: 50px;
+}
+    
+#newsletter{
+    width: 100%;
+    height: max-content;
+    padding: 3vh 0vh;
+    margin-top: 5vh;
+    background-color: rgb(201, 156, 98);
+}
+#stub{
+    padding: 50px 0px;
+    height: max-content;
+}
+#skelewu{
+    width: 100%;
+    height: max-content;
+    padding: 2vh 0vh;
+    color: white;
+    background-color: black;
+}
+#contact{
+    height: max-content;
+    padding: 8vh 0vh;
+}
+#contact .long{
+    width: 50%;
+    height: 5vh;
+    margin-bottom: 3vh;
+}
+#commit{
+    width: 10vw;
+    margin-bottom: 5vh;
+}
+#contactH{
+    margin-bottom: 5vh;
+}
+#backT{
+    background-color: lightgray;
+}
+.bannerTitle{
+    font-size: x-large;
+}
+.cunts{
+    height: 35vh;
+    width: 35vw;
+}
